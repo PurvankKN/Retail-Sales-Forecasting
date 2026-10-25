@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+XGBRegressor
+LinearRegression
+DecisionTreeRegressor
+RandomForestRegressor
+statsmodels
+ARIMA
+SARIMAX
+matplotlib
+seaborn
+sklearn.metrics
+streamlit
+pandas
+plotly
